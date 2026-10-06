@@ -3,10 +3,10 @@
 // =====================================================================
 const RELEASE = {
     version: "1.0.0",
-    date: "2026-10-06",            // YYYY-MM-DD, or "" to hide the date
+    date: "2026-10-06",
 
     // Link to the APK file (your GitHub release asset)
-    apkUrl: "https://github.com/bytestackapp/onecore-downloads/releases/latest/download/OneCore-Scanner.apk",
+    apkUrl: "https://github.com/bytestackapp/onecore-downloads/releases/latest/download/OneCore-v1.0.0.apk",
 
     // One line per change, shown in the "What's new" window
     notes: [
